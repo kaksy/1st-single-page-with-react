@@ -1,0 +1,38 @@
+ 
+ 
+ body{
+    height: fit-content;
+    background-color: rgba(41, 41, 172, 0.26);
+
+ }
+.card__flex{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    /* outline: 1px solid red;   */
+
+    justify-content: space-between;
+    height: 90vh;
+    padding-top: 50px;
+}
+.card__container{
+    width: fit-content;
+    /* outline: 1px solid red; */
+    /* height: 29rem; */
+    width: 30%;
+    box-sizing: border-box;
+    box-shadow: 5px 3px 14px 5px gray;
+
+}
+.write-up{
+    
+    padding-top: 150px;  
+    /* margin-top: 140px; */
+    margin-left: 10px;
+}
+.card-img-top{
+    height: 20rem;
+}
+#footer{
+    padding-top: 50px;
+}
